@@ -19,7 +19,7 @@ npm install —save prop-types
 ```sh
 npm install --save-dev storybook-css-modules-preset
 ```
-´´´
+```sh
 npm install --save @storybook/addon-postcss
 ```
 ```sh
